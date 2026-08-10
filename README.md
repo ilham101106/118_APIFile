@@ -148,10 +148,6 @@ JWT_SECRET=supersecretkey_118_apirelasi
 
 ---
 
-## 📸 Dokumentasi Screenshot Pengujian Endpoint (POSTMAN)
-
-Berikut adalah dokumentasi hasil pengujian response API untuk seluruh endpoint wajib menggunakan tampilan Postman UI:
-
 
 
 ## 📝 Pengujian API Otomatis
