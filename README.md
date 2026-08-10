@@ -10,52 +10,44 @@ API RESTful untuk pengelolaan **Penulis**, **Genre**, dan **Komik** dengan **Aut
 Berikut adalah dokumentasi hasil pengujian response API untuk seluruh endpoint wajib menggunakan tampilan Postman UI:
 
 ### 1. POST Register Penulis
-![POST Register]
-<img width="1531" height="909" alt="image" src="https://github.com/user-attachments/assets/9e3b03bb-cc4a-4f66-a69f-aa2fd5271459" />
+<img width="1536" height="908" alt="image" src="https://github.com/user-attachments/assets/f34f8b65-ea76-4229-93a2-23aa01e583e2" />
+
 
 
 ### 2. POST Login Penulis
-![POST Login]
-<img width="1536" height="740" alt="image" src="https://github.com/user-attachments/assets/f28c80eb-efe6-4a91-8d93-a2514d2acd29" />
+<img width="1536" height="911" alt="image" src="https://github.com/user-attachments/assets/31116232-fbf1-44e8-9c2b-7929c242722e" />
 
 
-### 3. POST Genre (Tambah Genre)
-![POST Genre]
-<img width="1536" height="688" alt="image" src="https://github.com/user-attachments/assets/7e3d0a9f-9daf-4cb1-ac62-e0cb3e4eb075" />
+
+### 3. POST Tambah Genre
+<img width="1536" height="910" alt="image" src="https://github.com/user-attachments/assets/8d912086-6773-48c0-b29c-abd388b0889e" />
+
 
 
 ### 4. POST Komik (Tambah Komik)
-![POST Komik]
-<img width="1536" height="892" alt="image" src="https://github.com/user-attachments/assets/acd81ff0-29f7-40ef-b73b-97c5f62b5623" />
+<img width="1536" height="918" alt="image" src="https://github.com/user-attachments/assets/057c7a54-d96f-4295-b0d2-ad0c4a24eaff" />
 
 
-### 5. GET Genre (Lihat Seluruh Genre)
-![GET Genre].
-<img width="1536" height="843" alt="image" src="https://github.com/user-attachments/assets/ed8b261a-9ffa-4d13-98e6-540e1548d7ee" />
+### 5. POST Tambah Komik (Upload File Gambar - Sesuai Foto Contoh)
+<img width="1536" height="906" alt="image" src="https://github.com/user-attachments/assets/060b7191-7560-4666-bda8-47eab47bdfe6" />
 
 
-### 6. PUT Genre (Update Genre)
-![PUT Genre]
-<img width="1532" height="679" alt="image" src="https://github.com/user-attachments/assets/06a62929-0e7a-461d-a288-4973aa6a8dfa" />
 
-### 7. DELETE Genre (Hapus Genre)
-![DELETE Genre]
-<img width="1536" height="648" alt="image" src="https://github.com/user-attachments/assets/f1352f50-2daf-4746-8f81-4ea75e9225f6" />
+### 6. GET Akses/Lihat File Gambar Terupload (Routing Statis)
+<img width="1536" height="911" alt="image" src="https://github.com/user-attachments/assets/bac07ea3-25bf-4f72-9393-2872991b504d" />
 
 
-### 8. GET Komik (Lihat Seluruh Komik)
-![GET Komik]
-<img width="1536" height="869" alt="image" src="https://github.com/user-attachments/assets/3a9d1c10-a0b6-46ee-932f-816a45b25d62" />
 
 
-### 9. PUT Komik (Update Komik)
-![PUT Komik]
-<img width="1536" height="889" alt="image" src="https://github.com/user-attachments/assets/9d0ace56-e91b-46a0-8907-c3384dd7626d" />
+
+### 7. Update Komik (Ganti Gambar)
+<img width="1536" height="909" alt="image" src="https://github.com/user-attachments/assets/0b9b5714-2424-492d-bd56-ba3e1bec6979" />
 
 
-### 10. DELETE Komik (Hapus Komik)
-![DELETE Komik]
-<img width="1536" height="508" alt="image" src="https://github.com/user-attachments/assets/9d3a03fe-104d-45ed-9195-140091919629" />
+
+### 8. DELETE Hapus Komik
+
+<img width="1536" height="903" alt="image" src="https://github.com/user-attachments/assets/b8ceb59b-dd3d-46c7-b9b8-3081f01db7da" />
 
 
 
