@@ -3,7 +3,6 @@
 API RESTful untuk pengelolaan **Penulis**, **Genre**, dan **Komik** dengan **Autentikasi JWT (JSON Web Token)**, **Upload File Gambar (Multer)**, serta mendukung **Konversi Data, Encoding, dan Deserialisasi Multi-Format (JSON, XML, YAML)** menggunakan Node.js, Express framework, Sequelize ORM, dan PostgreSQL.
 
 ---
----
 
 ## 📸 Dokumentasi Screenshot Pengujian Endpoint (POSTMAN)
 
