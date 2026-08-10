@@ -38,8 +38,6 @@ Berikut adalah dokumentasi hasil pengujian response API untuk seluruh endpoint w
 
 
 
-
-
 ### 7. Update Komik (Ganti Gambar)
 <img width="1536" height="909" alt="image" src="https://github.com/user-attachments/assets/0b9b5714-2424-492d-bd56-ba3e1bec6979" />
 
@@ -147,8 +145,6 @@ JWT_SECRET=supersecretkey_118_apirelasi
 | `DELETE` | `/api/komik/:id` | Menghapus Komik berdasarkan ID | 🔒 Yes (JWT) |
 
 ---
-
-
 
 ## 📝 Pengujian API Otomatis
 Untuk melakukan pengujian endpoint dan fitur konversi data secara otomatis:
